@@ -1,7 +1,4 @@
-﻿
-
-
-class Program
+﻿class Program
 {
     static void Main(string[] args)
     {
@@ -36,8 +33,6 @@ class Program
             Console.WriteLine("dynamic: " + dyn);
             dyn = "Agora é uma string";
             Console.WriteLine("dynamic: " + dyn);
-
-
 
     }
 }
